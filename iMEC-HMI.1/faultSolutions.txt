@@ -1,0 +1,36 @@
+Fault 1 - Open(Start Switch)
+	Tighten Start Switch Terminals
+	Tighten Terminal 1B
+	Replace Component(Start Switch)
+
+Fault 2 - Shorted(DM3(b0))
+	Replace Component(DM3(b0))
+
+Fault 3 - Open(Stop Switch)
+	Tighten Stop Switch Terminals
+	Tighten Terminal 2B
+	Replace Component(Stop Switch)
+	
+
+Fault 4 - Open(DM2(a1))
+	Tighten DM2(a1) Terminals
+	Tighten Terminal 5B
+	Replace Component(DM2(a1))
+	
+
+Fault 5 - Shorted(EL3(B+))
+	Replace Component(EL3(B+))
+
+Fault 6 - Open(PLC-DC_COM)
+	Tighten PLC-DC_COM1 Terminal
+	Tighten Terminal 10C
+	Replace Component(PLC)
+	
+Fault 7 - Open(EL1(A+))
+	Tighten EL1(A+) Terminals
+	Tighten Terminal 9A
+	Replace Component(EL1(A+))
+
+Fault 8 - Open(O/1(VDC))
+	Tighten Terminal PLC-VDC(O/1)
+	Replace Component(PLC)
