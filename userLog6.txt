@@ -1,0 +1,16 @@
+Alex Bohman
+Schematic 1,29:45,800
+Schematic 2,29:40,800
+Schematic 3,29:26,800
+Schematic 4,29:23,800
+Schematic 3,29:11,800
+Schematic 2,29:03,800
+Schematic 1,29:01,800
+Schematic 2,28:57,800
+Schematic 3,28:51,800
+Schematic 2,28:48,800
+Schematic 1,28:42,800
+Schematic 2,28:40,800
+Schematic 3,28:38,800
+Schematic 4,28:37,800
+Lab Closed,28:35,800
